@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Demo\BigProject\bin\Debug\BigProject.exe.config
+C:\Users\admin\Desktop\Demo\BigProject\bin\Debug\BigProject.exe
+C:\Users\admin\Desktop\Demo\BigProject\bin\Debug\BigProject.pdb
+C:\Users\admin\Desktop\Demo\BigProject\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\BigProject.GUI.AppForm.resources
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\BigProject.GUI.DiemForm.resources
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\BigProject.GUI.FormLop.resources
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\BigProject.LoginForm.resources
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\BigProject.MainForm.resources
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\BigProject.GUI.Thongtinsinhvien.resources
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\BigProject.Properties.Resources.resources
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\BigProject.exe
+C:\Users\admin\Desktop\Demo\BigProject\obj\Debug\BigProject.pdb
